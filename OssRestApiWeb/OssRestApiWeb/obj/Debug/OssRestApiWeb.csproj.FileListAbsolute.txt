@@ -1,0 +1,10 @@
+D:\Nabeel Workspace\Projects\OpenSearchServer\RnD\OssRestApiWeb\OssRestApiWeb\obj\Debug\OssRestApiWeb.csprojResolveAssemblyReference.cache
+D:\Nabeel Workspace\Projects\OpenSearchServer\RnD\OssRestApiWeb\OssRestApiWeb\bin\OssRestApiWeb.dll.config
+D:\Nabeel Workspace\Projects\OpenSearchServer\RnD\OssRestApiWeb\OssRestApiWeb\bin\OssRestApiWeb.dll
+D:\Nabeel Workspace\Projects\OpenSearchServer\RnD\OssRestApiWeb\OssRestApiWeb\bin\OssRestApiWeb.pdb
+D:\Nabeel Workspace\Projects\OpenSearchServer\RnD\OssRestApiWeb\OssRestApiWeb\bin\Newtonsoft.Json.dll
+D:\Nabeel Workspace\Projects\OpenSearchServer\RnD\OssRestApiWeb\OssRestApiWeb\bin\System.Net.Http.Formatting.dll
+D:\Nabeel Workspace\Projects\OpenSearchServer\RnD\OssRestApiWeb\OssRestApiWeb\bin\Newtonsoft.Json.xml
+D:\Nabeel Workspace\Projects\OpenSearchServer\RnD\OssRestApiWeb\OssRestApiWeb\bin\System.Net.Http.Formatting.xml
+D:\Nabeel Workspace\Projects\OpenSearchServer\RnD\OssRestApiWeb\OssRestApiWeb\obj\Debug\OssRestApiWeb.dll
+D:\Nabeel Workspace\Projects\OpenSearchServer\RnD\OssRestApiWeb\OssRestApiWeb\obj\Debug\OssRestApiWeb.pdb
